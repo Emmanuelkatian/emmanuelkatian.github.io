@@ -5284,3 +5284,17 @@ a.credit {
 /* Common Style */
 .section {
   padding-bottom: 0; }
+
+/* Botón de descarga del CV */
+.button-container .btn-cv {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  width: auto;
+  height: auto;
+  min-width: 0;
+  padding: 12px 32px;
+  white-space: nowrap;
+  line-height: 1.2;
+  color: #fff; }
